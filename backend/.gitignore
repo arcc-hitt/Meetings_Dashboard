@@ -1,0 +1,30 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment files
+.env
+.env.*
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+
+# Logs and runtime files
+*.log
+*.pid
+*.sqlite3
+instance/
+*.db
+
+# System files
+.DS_Store
+.vscode/
+.idea/
